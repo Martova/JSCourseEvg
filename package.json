@@ -1,0 +1,22 @@
+{
+  "name": "jscourseevg",
+  "version": "1.0.0",
+  "description": "Project for Mocha test",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Martova/JSCourseEvg.git"
+  },
+  "author": "Martova",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Martova/JSCourseEvg/issues"
+  },
+  "homepage": "https://github.com/Martova/JSCourseEvg#readme",
+  "dependencies": {
+    "mocha": "^6.1.4"
+  }
+}
