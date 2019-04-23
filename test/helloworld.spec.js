@@ -6,3 +6,5 @@ describe('Hello world TestSuite', () => {
         logger.info('Hello world');
         });
 });
+
+console.log('Hello world');
