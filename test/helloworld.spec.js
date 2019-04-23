@@ -7,4 +7,3 @@ describe('Hello world TestSuite', () => {
         });
 });
 
-console.log('Hello world');
